@@ -1,4 +1,4 @@
-# Akademik Portfolio Web Sitesi (deneme amaçlı oluşturulmuştur)
+# Akademik Portfolio Web Sitesi (Deneme amaçlı oluşturulmuştur)
 
 Bu proje, akademisyenler için hazırlanmış modern ve responsive bir portfolio web sitesidir.
 
@@ -25,7 +25,7 @@ Bu proje, akademisyenler için hazırlanmış modern ve responsive bir portfolio
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/akademik-portfolio.git
+git clone https://github.com/bektas-sari/akademik-portfolio.git
 ```
 
 2. Proje klasörüne gidin:
@@ -61,7 +61,7 @@ cd akademik-portfolio
 ```
 akademik-portfolio/
 │
-├── index.html          # Ana HTML dosyası
+├── index.html         # Ana HTML dosyası
 ├── style.css          # Stil dosyası
 ├── script.js          # JavaScript fonksiyonları
 ├── images/            # Görseller için klasör
@@ -105,7 +105,4 @@ akademik-portfolio/
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-
-Bu README dosyası projenin temel özelliklerini, kurulum adımlarını ve özelleştirme seçeneklerini detaylı bir şekilde açıklamaktadır. Projenizi paylaşırken bu dosyayı kendi bilgilerinizle güncellemeyi unutmayın.
-# akademsiyen-portfolio
+Bu proje MIT lisansı altında lisanslanmıştır. 
