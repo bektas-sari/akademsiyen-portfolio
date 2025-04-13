@@ -106,3 +106,7 @@ akademik-portfolio/
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. 
+
+## İletişim
+
+Email:bektas.sari@gmail.com
